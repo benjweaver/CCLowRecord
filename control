@@ -1,0 +1,9 @@
+Package: com.r3st1t0u.cclowrecord
+Name: CCLowRecord
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Combines CCRecord and CCLowPower into one package.
+Maintainer: r3st1t0u (Ben Weaver)
+Author: cole cabral & r3st1t0u
+Section: Tweaks
